@@ -1,0 +1,38 @@
+body {font-family: 'Courier New', Courier, monospace;
+background-image:url("https://images.unsplash.com/photo-1519229560282-5c6d4a11e474?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1498&q=80")}
+
+#about {
+    background:lightblue;
+    margin: 20px;
+    padding: 15px;
+      
+}
+
+#about>p {
+font-size:12
+padding:10px}
+
+#work {margin-bottom:20px;
+    background:lightgray;
+padding:15px;margin: 20px;}
+
+.list{display:inline-block;
+    padding:15px;
+    border:3px solid darkblue;
+list-style-type: square;
+}
+
+
+#contact {padding:25px;background:lightblue;margin: 20px;
+}
+
+#contact>a {float: left;}
+
+
+nav {background-color: rgb(228, 98, 58);
+font-size:x-large;
+margin:20px;
+padding:0;
+}
+nav>a:hover {background-color: red;
+}
